@@ -100,19 +100,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://img.shields.io/badge/Total%20Contributions-190+-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Focus-AI%20Systems-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Main%20Languages-Python%20%7C%20TypeScript-green?style=for-the-badge" />
+
 </p>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suyash-acharya-369&theme=tokyonight&hide_border=true" />
-</p>
 
-<br>
+🧠 Consistent builder focused on real-world AI systems  
+⚡ Actively working on full-stack + ML projects  
+🚀 Exploring agent-based workflows & automation  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-acharya-369&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Highlights
