@@ -1,25 +1,23 @@
-# Projects Organized by Category
+# Welcome to My GitHub Profile
 
-## AI & Machine Learning
-- [Project AI](https://github.com/user/project-ai): Description of what this project does.
+## Projects
 
-## Web Development
-- [Project Web](https://github.com/user/project-web): Description of what this project does.
+### Web Development
+- **Project A** (HTML, CSS, JavaScript)
+  - [Link to Project A](https://github.com/suyash-acharya-369/project-a)
+  - ![HTML Badge](https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Data Analysis & Business Intelligence
-- [Project Data](https://github.com/user/project-data): Description of what this project does.
+### Mobile Development
+- **Project B** (React Native)
+  - [Link to Project B](https://github.com/suyash-acharya-369/project-b)
+  - ![React Badge](https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## Python Projects
-- [Project Python](https://github.com/user/project-python): Description of what this project does.
+### Machine Learning
+- **Project C** (Python, TensorFlow, Scikit-learn)
+  - [Link to Project C](https://github.com/suyash-acharya-369/project-c)
+  - ![Python Badge](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white)
+  - ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-#FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Games & Interactive Projects
-- [Project Games](https://github.com/user/project-games): Description of what this project does.
+## GitHub Stats
 
-## Learning Resources
-- [Project Resources](https://github.com/user/project-resources): Description of what this project does.
-
-## Blockchain & Web3
-- [Project Blockchain](https://github.com/user/project-blockchain): Description of what this project does.
-
-## Other Projects
-- [Project Other](https://github.com/user/project-other): Description of what this project does.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=radical)
