@@ -37,15 +37,19 @@
 <p align="center">
 
 <a href="https://github.com/suyash-acharya-369/Luminax.ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=Luminax.ai&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Luminax.ai-AI%20Learning%20Platform-blueviolet?style=for-the-badge&logo=github" />
 </a>
+
+<br><br>
 
 <a href="https://github.com/suyash-acharya-369/AI-Virtual-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=AI-Virtual-Assistant&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/AI%20Virtual%20Assistant-Voice%20LLM%20System-blue?style=for-the-badge&logo=github" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/suyash-acharya-369/LIPTALK-Lip-Reader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=LIPTALK-Lip-Reader&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/LIPTALK-Lip%20Reading%20AI-green?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -64,19 +68,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-acharya-369&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=suyash-acharya-369&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-acharya-369&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suyash-acharya-369&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
