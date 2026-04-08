@@ -1,48 +1,61 @@
 <h1 align="center">🚀 Suyash Acharya</h1>
-<h3 align="center">Building AI Systems That Solve Real Problems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyash-acharya-369&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <b>Building AI Systems That Solve Real Problems</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suyash-acharya-369&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress;Building+Real+World+Systems;Exploring+Agentic+AI" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 BCA (AI & ML) | Bhopal  
-- 🎯 Aspiring **Machine Learning Engineer**  
-- ⚙️ Building AI tools, full-stack systems & automation  
-- 💼 Intern @ AISECT India  
-- 💰 ₹40K+ earned via design & content  
+<p align="center">
+
+💻 <b>BCA (AI & ML)</b> • Bhopal <br><br>
+
+🎯 <b>Aspiring Machine Learning Engineer</b> <br><br>
+
+⚙️ Building AI tools, full-stack systems & automation <br><br>
+
+💼 Intern @ <b>AISECT India</b> <br><br>
+
+💰 Earned <b>₹40K+</b> via design & content  
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Luminax.ai  
-Gamified AI learning platform with quests, XP & leaderboard  
-🔗 https://github.com/suyash-acharya-369/Luminax.ai  
+<p align="center">
 
----
+<a href="https://github.com/suyash-acharya-369/Luminax.ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=Luminax.ai&theme=tokyonight&hide_border=true" />
+</a>
 
-### 🎙️ AI Virtual Assistant  
-Real-time voice → LLM → response system  
-🔗 https://github.com/suyash-acharya-369/AI-Virtual-Assistant  
+<a href="https://github.com/suyash-acharya-369/AI-Virtual-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=AI-Virtual-Assistant&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/suyash-acharya-369/LIPTALK-Lip-Reader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suyash-acharya-369&repo=LIPTALK-Lip-Reader&theme=tokyonight&hide_border=true" />
+</a>
 
-### 👄 LIPTALK  
-Silent speech → text using CV + AI correction  
-🔗 https://github.com/suyash-acharya-369/LIPTALK-Lip-Reader  
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,postgres,docker,gcp,git" />
-
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,postgres,docker,gcp,git" />
 </p>
 
 ---
@@ -68,19 +81,23 @@ Silent speech → text using CV + AI correction
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyash-acharya-369&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+💼 Intern @ AISECT India &nbsp;&nbsp;•&nbsp;&nbsp;  
+💰 ₹40K+ earned &nbsp;&nbsp;•&nbsp;&nbsp;  
+🤖 Built AI-powered systems  
+
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Python + problem solving  
-- AI systems & agent workflows  
-- Building real-world ML applications  
+<p align="center">
+Python • AI Systems • Problem Solving • Agentic Workflows
+</p>
 
 ---
 
