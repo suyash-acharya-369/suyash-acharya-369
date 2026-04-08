@@ -1,23 +1,30 @@
-# Welcome to My GitHub Profile
+# Building & Breaking Things 🔥  
 
-## Projects
+## About Me  
+I am a BCA student from Bhopal specializing in Cloud Computing and Cybersecurity. Passionate about learning and developing innovative solutions to real-world problems.  
 
-### Web Development
-- **Project A** (HTML, CSS, JavaScript)
-  - [Link to Project A](https://github.com/suyash-acharya-369/project-a)
-  - ![HTML Badge](https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Live Projects  
+- [Project One](https://link-to-your-live-project) - Brief description of what this project does.  
+- [Project Two](https://link-to-another-live-project) - Brief description of what this project does.  
 
-### Mobile Development
-- **Project B** (React Native)
-  - [Link to Project B](https://github.com/suyash-acharya-369/project-b)
-  - ![React Badge](https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=react&logoColor=black)
+## Tech Stack  
+### Frontend  
+![HTML](https://img.shields.io/badge/-HTML-FF5733?style=flat&logo=HTML5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-3C3C3D?style=flat&logo=CSS3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-### Machine Learning
-- **Project C** (Python, TensorFlow, Scikit-learn)
-  - [Link to Project C](https://github.com/suyash-acharya-369/project-c)
-  - ![Python Badge](https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-#FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
+### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=Express&logoColor=white)  
 
-## GitHub Stats
+### Cloud  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-007FFF?style=flat&logo=Microsoft-Azure&logoColor=white)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=radical)
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=dark)  
+
+## Connect  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourprofile)  
+- [Email](mailto:youremail@example.com)  
