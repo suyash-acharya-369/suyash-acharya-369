@@ -34,28 +34,58 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://github.com/suyash-acharya-369/Luminax.ai">
   <img src="https://img.shields.io/badge/Luminax.ai-AI%20Learning%20Platform-blueviolet?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
+</td>
+<td align="center">
 
 <a href="https://github.com/suyash-acharya-369/AI-Virtual-Assistant">
-  <img src="https://img.shields.io/badge/AI%20Virtual%20Assistant-Voice%20LLM%20System-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI%20Assistant-Voice%20LLM%20System-blue?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <a href="https://github.com/suyash-acharya-369/LIPTALK-Lip-Reader">
   <img src="https://img.shields.io/badge/LIPTALK-Lip%20Reading%20AI-green?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+</td>
+<td align="center">
 
----
+<a href="https://github.com/suyash-acharya-369/Chess">
+  <img src="https://img.shields.io/badge/Chasino-Chess%20AI%20Trainer-black?style=for-the-badge&logo=github" />
+</a>
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/suyash-acharya-369/campus-connect">
+  <img src="https://img.shields.io/badge/Campus%20Connect-Student%20Platform-orange?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://github.com/suyash-acharya-369/luminax-study-quest">
+  <img src="https://img.shields.io/badge/Study%20Quest-AI%20Learning%20UI-purple?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 ## ⚡ Tech Stack
 
 <p align="center">
