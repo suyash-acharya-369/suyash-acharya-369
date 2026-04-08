@@ -1,129 +1,86 @@
-# 🚀 Building & Breaking Things 🔥
+# 🚀 Suyash Acharya
+
+### Building AI Systems that Solve Real Problems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suyash-acharya-369&color=brightgreen)
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About
 
-I’m **Suyash Acharya**, a 2nd-year BCA (AI & ML) student from Bhopal, building systems that solve real problems.
-
-- 🎯 Aspiring **Machine Learning Engineer**
-- 🧠 Focused on **Python, AI systems, and problem solving**
-- ⚙️ Building **AI tools, full-stack apps, and automation workflows**
-- 🧪 Exploring **agentic AI + real-world applications**
-- 💼 Intern @ **AISECT India** (E-Learning Developer)
-- 💰 Earned **₹40K+** through design + content work (Under 25)
+- 🎓 BCA (AI & ML) | Bhopal  
+- 🎯 Aspiring Machine Learning Engineer  
+- ⚙️ Building AI tools, full-stack systems & automation  
+- 💼 Intern @ AISECT India  
+- 💰 ₹40K+ earned via design & content  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🎙️ AI Virtual Assistant  
-LLM-powered voice assistant with real-time speech → AI response pipeline  
-**Tech:** Python, LLM APIs, Voice Recognition  
-🔗 https://github.com/suyash-acharya-369/AI-Virtual-Assistant  
-
----
-
-### 🧠 Luminax.ai  
-Gamified AI-powered learning platform with XP, quests, and leaderboard system  
-**Tech:** TypeScript, React, Node.js, Supabase, Tailwind  
+### 🧠 Luminax.ai
+Gamified AI learning platform with XP, quests & leaderboard  
+→ Full backend + AI quiz system  
 🔗 https://github.com/suyash-acharya-369/Luminax.ai  
 
 ---
 
-### 🎯 Study Quest (Luminax)  
-Modern study system with AI-assisted UI and interactive learning flows  
-**Tech:** TypeScript, React, Vite, Tailwind, shadcn-ui  
-🔗 https://github.com/suyash-acharya-369/luminax-study-quest  
+### 🎙️ AI Virtual Assistant
+Voice → LLM → response pipeline in real time  
+🔗 https://github.com/suyash-acharya-369/AI-Virtual-Assistant  
 
 ---
 
-### 🏫 Campus Connect  
-Student networking platform with CMS, authentication, and responsive UI  
-**Tech:** Astro, React, TypeScript, Wix, Tailwind  
-🔗 https://github.com/suyash-acharya-369/campus-connect  
-
----
-
-### ♟️ Chasino (Chess AI Trainer)  
-Analyze games using Stockfish → retry mistakes → convert positions into puzzles  
-**Tech:** Svelte, FastAPI, Stockfish, Chessground  
-🔗 https://github.com/suyash-acharya-369/Chess  
-
----
-
-### 👄 LIPTALK – Lip Reader  
-Real-time lip-reading system with local processing + LLM correction  
-**Tech:** Python, MediaPipe, Deep Learning, Ollama  
+### 👄 LIPTALK (Lip Reader)
+Silent speech → text using CV + deep learning + LLM correction  
 🔗 https://github.com/suyash-acharya-369/LIPTALK-Lip-Reader  
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ More Projects (click to expand)
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Go](https://img.shields.io/badge/Go-blue?logo=go)
+<details>
+<summary>Show Projects</summary>
 
----
+### ♟️ Chasino (Chess AI Trainer)
+Stockfish-powered analysis → retry mistakes → puzzle generation  
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss)
-![shadcn-ui](https://img.shields.io/badge/shadcn--ui-black)
+### 🏫 Campus Connect
+Student platform with CMS + auth + responsive UI  
 
----
+### 🎯 Study Quest
+Modern learning system with AI UI integration  
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
+</details>
 
 ---
 
-### 🗄 Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?logo=googlecloud)
+## 🛠 Tech Stack (focused)
+
+**Core:** Python • TypeScript • React • Node.js  
+**AI:** MediaPipe • LLM APIs • Ollama  
+**Backend:** FastAPI • Express  
+**Database:** PostgreSQL • Supabase  
 
 ---
 
-### 🤖 AI / Tools
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-orange)
-![Stockfish](https://img.shields.io/badge/Stockfish-black)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-acharya-369&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyash-acharya-369&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-acharya-369&layout=compact&theme=radical)
+- Python + problem solving  
+- AI systems & agent workflows  
+- Real-world ML applications  
 
 ---
 
-## 🧭 Current Focus
+## 🌐 Connect
 
-- Mastering **Python + Problem Solving**
-- Building **AI-powered tools & workflows**
-- Improving **system design + backend depth**
-- Exploring **agent-based AI systems**
-
----
-
-## 🌐 Connect With Me
-
-- Portfolio: (add)
-- LinkedIn: (add)
-- Email: (add)
-
----
+Portfolio • LinkedIn • Email
