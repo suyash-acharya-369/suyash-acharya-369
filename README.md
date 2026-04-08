@@ -100,18 +100,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyash-acharya-369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suyash-acharya-369&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=suyash-acharya-369&theme=tokyonight&hide_border=true" />
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-acharya-369&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-acharya-369&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🏆 Highlights
 
